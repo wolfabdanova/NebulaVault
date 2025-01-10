@@ -1,0 +1,1 @@
+Integrate third-party authentication for rollback (quick) - Implemented a new feature to enhance third-party authentication.
