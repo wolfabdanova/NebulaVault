@@ -1,0 +1,1 @@
+Improve email verification for client (simplified) - Implemented a new feature to enhance email verification.
