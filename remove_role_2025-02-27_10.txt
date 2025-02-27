@@ -1,0 +1,1 @@
+Remove role management for branch (quick) - Implemented a new feature to enhance role management.
