@@ -1,0 +1,1 @@
+Support third-party authentication for branch (efficient) - Implemented a new feature to enhance third-party authentication.
