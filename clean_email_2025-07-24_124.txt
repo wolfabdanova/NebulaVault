@@ -1,0 +1,1 @@
+Clean email verification for rollback (advanced) - Implemented a new feature to enhance email verification.
