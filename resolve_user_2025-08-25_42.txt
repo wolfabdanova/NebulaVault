@@ -1,0 +1,1 @@
+Resolve user interface for scalability (simplified)
