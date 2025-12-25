@@ -1,0 +1,1 @@
+Integrate role management for server (enhanced) - Implemented a new feature to enhance role management.
