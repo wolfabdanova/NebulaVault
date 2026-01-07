@@ -1,0 +1,1 @@
+Fix email verification for service (simplified)
